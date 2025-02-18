@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Same Up Bilgi Güvenliği Politikası",
+      "content": "Değerli çalışanlarımız ve müşterilerimiz, güncellenmiş bilgi güvenliği politikamızı aşağıda bilgilerinize sunuyoruz...",
+      "date": "12 May 2022"
+    },
+    {
+      "id": 2,
+      "title": "Yeni Ürün Duyurusu",
+      "content": "Firmamızın yeni ürünleri hakkında bilgi almak için lütfen bizi takip etmeye devam edin.",
+      "date": "10 May 2022"
+    },
+    {
+      "id": 3,
+      "title": "Başarı Hikayeleri",
+      "content": "Müşterilerimizin başarı hikayelerini okumak için buraya göz atabilirsiniz.",
+      "date": "08 May 2022"
+    }
+  ]
+  
